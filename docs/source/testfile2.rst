@@ -3,8 +3,11 @@ Here we go
 
 We have more to say here, 
 and even link the :doc:`api` page or another chapter, 
-e. g. :ref:`Installation` or :ref:`A smaller headline` or 
+e. g. :ref:`Installation` or :ref:`a-smaller-headline` or 
 :ref:`my-reference-label`.
+
+Chapter headlines have to be written in lower case and with dashs 
+replacing spaces. :ref:`A smaller headline` is not working.
 
 .. _my-reference-label:
 A smaller headline
