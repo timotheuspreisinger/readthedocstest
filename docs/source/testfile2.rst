@@ -10,6 +10,7 @@ Chapter headlines have to be written in lower case and with dashs
 replacing spaces. :ref:`A smaller headline` is not working.
 
 .. _my-reference-label:
+
 A smaller headline
 ------------------
 This is more content.
