@@ -11,7 +11,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   A markdown file should appear between *testtp* and *testfile2*.
 
 Contents
 --------
@@ -23,4 +23,3 @@ Contents
    testtp
    markdowntest
    testfile2
-   
