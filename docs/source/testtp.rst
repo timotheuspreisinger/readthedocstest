@@ -13,4 +13,4 @@ It was edited using Visual Studio Code Web.
 .. autosummary::
    :toctree: generated
 
-   lumache
+   rez
