@@ -21,4 +21,6 @@ Contents
    usage
    api
    testtp
+   markdowntest
    testfile2
+   
